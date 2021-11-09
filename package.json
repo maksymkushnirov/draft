@@ -3,10 +3,10 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://maksymkushnirov.github.io/draft",
-  "scripts": {
+  "homepage": "https://maksymkushnirov.github.io/draft/",
+    "scripts": {
     "dev": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /draft/"
   },
   "repository": {
     "type": "git",
